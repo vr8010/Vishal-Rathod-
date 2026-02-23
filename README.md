@@ -64,7 +64,7 @@ A demo app demonstrating the Luhn Algorithm for generating authenticated card nu
 
 - **Bachelor of Technology (B.Tech)** – Computer Science & Engineering  
   (2021–2025), Dr. D. Y. Patil Prathisthan’s College of Engineering  
-  | Shivaji University, Kolhapur  
+  Shivaji University, Kolhapur  
 
 - **HSC (12th)** – Sundarrao Solanke Mahavidyalaya, Majalgaon  
 - **SSC (10th)** – Mahatma Phule Highschool, Majalgaon
