@@ -12,7 +12,7 @@ I’m **Vishal Rathod**, a Computer Science graduate and passionate developer sk
 
 - 💼 B.Tech Graduate in Computer Science & Engineering  
 - 🌐 Full Stack Developer focused on practical and scalable solutions  
-- 📍 Based in Beed, Maharashtra, India  
+- 📍 Beed, Maharashtra, India  
 - 📫 Contact: vishalrathod80053@gmail.com  
 - 📱 Phone: +91-8010530163  
 
