@@ -106,10 +106,10 @@ End
 ```
 🧭 Detailed Portfolio Flow Diagram
 ```
-                         +----------------------------------+
-                         |        Portfolio Landing Page     |
-                         |  Vishal Rathod – Full Stack Dev  |
-                         +----------------+-----------------+
+                         +---------------------------------------+
+                         |        Portfolio Landing Page         |
+                         |  Vishal Rathod – Full Stack Developer |
+                         +----------------+----------------------+
                                           |
                                           v
                          +----------------------------------+
