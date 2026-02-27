@@ -83,7 +83,67 @@ A demo app demonstrating the Luhn Algorithm for generating authenticated card nu
 (See full certificate list on the portfolio site)
 
 ---
-
+🔄 Portfolio Flow Chart
+📊 Website Structure Flow
+```
+Start
+  ↓
+Landing Page
+  ↓
+About Section
+  ↓
+Skills Section
+  ↓
+Projects Section
+  ↓
+Education Section
+  ↓
+Certifications Section
+  ↓
+Contact Section
+  ↓
+End
+```
+🧭 Detailed Portfolio Flow Diagram
+```
+                         +----------------------------------+
+                         |        Portfolio Landing Page     |
+                         |  Vishal Rathod – Full Stack Dev  |
+                         +----------------+-----------------+
+                                          |
+                                          v
+                         +----------------------------------+
+                         |            About Me              |
+                         +----------------+-----------------+
+                                          |
+                                          v
+                         +----------------------------------+
+                         |              Skills              |
+                         +----------------+-----------------+
+                                          |
+                                          v
+                         +----------------------------------+
+                         |             Projects             |
+                         |  - Internship Tracker            |
+                         |  - INFORECON                     |
+                         |  - Credit Card Generator         |
+                         +----------------+-----------------+
+                                          |
+                                          v
+                         +----------------------------------+
+                         |            Education             |
+                         +----------------+-----------------+
+                                          |
+                                          v
+                         +----------------------------------+
+                         |   Certifications & Achievements  |
+                         +----------------+-----------------+
+                                          |
+                                          v
+                         +----------------------------------+
+                         |           Contact Section        |
+                         +----------------------------------+
+```
 ## 📫 Get in Touch
 
 Feel free to reach out for collaborations or opportunities!
